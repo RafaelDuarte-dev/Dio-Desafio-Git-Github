@@ -1,10 +1,11 @@
 # Dio-Desafio-Git-Github
  Desafio de projeto da Dio sobre Git/Github
 
-                   *Referências*
+                                    *Referências*
 
-    https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3t - Vídeo do youtube sobre
-    pensamento algorítimico
+    https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3t - 
+    Vídeo do youtube sobre pensamento algorítimico
+   
 
     • José Augusto Manzano, Algoritmos -
     lógica para desenvolvimento de programação de computadores, Ed. Érica,
